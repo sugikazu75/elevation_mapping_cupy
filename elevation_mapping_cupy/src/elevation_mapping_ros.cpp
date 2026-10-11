@@ -12,6 +12,7 @@
 #include <geometry_msgs/Point32.h>
 #include <ros/package.h>
 #include <tf_conversions/tf_eigen.h>
+#include <boost/algorithm/string/join.hpp>
 
 // PCL
 #include <pcl/common/projection_matrix.h>
